@@ -30,7 +30,7 @@ then **array or collection**.
 The Java for-each loop traverses the array or collection until the last element. 
 For each element, it stores the element in the variable and executes the body of the for-each loop.
 
-## For-each loop Example: Traversing the array elements
+## Example1 : Traversing the array elements
     package com.sourcecode.java5.enhancedforloop;
     
     public class ForEachExample1 {
@@ -48,13 +48,12 @@ For each element, it stores the element in the variable and executes the body of
 
 ### **Output:**
 
-12
-12
-14
-44
+12<br>
+12<br>
+14<br>
+44<br>
 
-Let us see another of Java for-each loop where we are going to total the elements.
-## Java for-each loop : Example2 :Calculating total sum of the elements in array
+## Example 2 : Calculating total sum of the elements in array
 
     package com.sourcecode.java5.enhancedforloop;
     
@@ -76,7 +75,7 @@ Let us see another of Java for-each loop where we are going to total the element
 
 ---
 
-## For-each loop Example 3: Traversing the collection elements
+## Example 3 : Traversing the collection elements
     package com.sourcecode.java5.enhancedforloop;
     
     import java.util.ArrayList;
@@ -100,7 +99,7 @@ Let us see another of Java for-each loop where we are going to total the element
 
   
 ### Output:
-vimal
-sonoo
-ratan
+vimal<br>
+sonoo<br>
+ratan<br>
 
