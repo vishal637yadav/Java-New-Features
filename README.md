@@ -1,10 +1,14 @@
 # Java Versions Features
-1. Java 4/5
-2. Java 7
-3. Java 8
-4. Java 9
-5. Java SE 11 (LTS)
-6. Java SE 17 (LTS)
-7. Java SE 21 (LTS)
-8. [...]()
+
+## Java 4/5
+   1. [For-Each-Loop](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-For-Each-Loop.md)
+   2. [Variable Argument (Varargs)]()
+      
+## Java 7
+## Java 8
+## Java 9
+## Java SE 11 (LTS)
+## Java SE 17 (LTS)
+## Java SE 21 (LTS)
+## [...]()
    
