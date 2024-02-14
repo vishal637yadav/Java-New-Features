@@ -1,4 +1,4 @@
-[JavaNewFeature:List](https://github.com/vishal637yadav/JavaNewFeatures/README.md)
+[JavaNewFeature:List](https://github.com/vishal637yadav/JavaNewFeatures/tree/master)
 
 # Java For-each Loop | Enhanced For Loop
 * Introduced since **J2SE 5.0**. 
@@ -56,7 +56,9 @@ For each element, it stores the element in the variable and executes the body of
 12<br>
 14<br>
 44<br>
+
 ---
+
 ## Example 2 : Calculating total sum of the elements in array
 
     package com.sourcecode.java5.enhancedforloop;
@@ -106,4 +108,5 @@ For each element, it stores the element in the variable and executes the body of
 vimal<br>
 sonoo<br>
 ratan<br>
+
 ---
