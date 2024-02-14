@@ -29,7 +29,9 @@ then **array or collection**.
 # How it works?
 The Java for-each loop traverses the array or collection until the last element. 
 For each element, it stores the element in the variable and executes the body of the for-each loop.
+
 ---
+
 ## Example1 : Traversing the array elements
     package com.sourcecode.java5.enhancedforloop;
     
