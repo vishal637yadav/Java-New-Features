@@ -1,4 +1,4 @@
-## Static Import
+# Static Import
 * It (static import) facilitate the java programmer to **access any static member of a class directly**. 
 * There is no need to qualify it by the class name.
 
@@ -6,8 +6,10 @@
 
 * Less coding is required if you have access any static member of a class frequently.
 
+
 ## Disadvantage of static import:
 * If you **overuse** the static import feature, it **makes the program unreadable** and **unmaintainable**.
+
 
 ## Example 1 : Simple Example of static import
 
