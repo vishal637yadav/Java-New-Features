@@ -27,7 +27,7 @@ There are several built-in annotations in Java. Some **annotations are applied**
 ### Understanding Built-In Annotations
 Let's understand the built-in annotations first.
 
-1. @Override
+1. @Override :<br>
 **@Override** annotation **assures** that the **subclass method is overriding** the **parent class method**. 
 _If it is not_ so, _**compile time error** occurs_.
 
@@ -63,7 +63,7 @@ So, it is better to mark @Override annotation that provides assurity that method
 **Comple Time Error**<br>
 Method does not override method from its superclass
 
-2. @SuppressWarnings
+2. @SuppressWarnings :<br>
 **@SuppressWarnings** annotation: is **used** **to suppress warnings** _issued by_ **the compiler**.
 
          package com.sourcecode.java5.annotations;
@@ -92,7 +92,7 @@ It will show warning at compile time because we are using **non-generic collecti
 ### With  @SuppressWarnings("unchecked") below warning are given by Compiler
 Now no warning at compile time.
 
-3. @Deprecated
+3. @Deprecated <br>
 **@Deprecated** annoation marks that **this method is deprecated** so **compiler prints warning**. 
 It **informs user that** it **may be removed** in the **future versions**. 
 So, it is better not to use such methods.
@@ -138,8 +138,10 @@ For example:
 
 Here, **MyAnnotation** is the **custom annotation name**.
 
->[IMPORTANT]
->Points to remember for java custom annotation signature :
+> [!IMPORTANT]
+
+> [!IMPORTANT]
+>   Points to remember for java custom annotation signature :
 >1. Method should not have any throws clauses
 >2. Method should return one of the following: primitive data types, String, Class, enum or array of these data types. 
 >3. Method should not have any parameter. 
@@ -217,6 +219,7 @@ The **java.lang.annotation.ElementType** enum declares many constants to specify
 applied such as **TYPE, METHOD, FIELD** etc. <br>Let's see the constants of ElementType enum:
 
 |**Element Types**	|**Where the annotation can be applied**|
+|---|---|
 |TYPE|	class, interface or enumeration|
 |FIELD|	fields|
 |METHOD|	methods|
@@ -242,6 +245,7 @@ applied such as **TYPE, METHOD, FIELD** etc. <br>Let's see the constants of Elem
 **@Retention** annotation is used to **specify to what level annotation** will be available.
 
 |**RetentionPolicy**|	Availability|
+|---|---|
 |RetentionPolicy.SOURCE|	refers to the source code, discarded during compilation.<br> It will not be available in the compiled class.|
 |RetentionPolicy.CLASS|	refers to the .class file, available to java compiler but not to JVM.<br> It is included in the class file.|
 |RetentionPolicy.RUNTIME|	refers to the runtime, available to java compiler and JVM .|
