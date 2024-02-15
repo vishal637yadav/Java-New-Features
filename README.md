@@ -6,7 +6,7 @@
    3. [Static Import](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-Static-Import.md)
    4. [Autoboxing and UnBoxing](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-AutoBoxing-Unboxing.md)
    5. [Enums](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-Enum.md)
-   6. Annotations
+   6. [Annotations](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-Annotations.md)
    7. Generics
       
 ## Java 7
