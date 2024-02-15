@@ -1,12 +1,15 @@
 # Autoboxing and Unboxing:
 
->[!Boxing:]
+>[!Note:]
+> Boxing : Defination
 >The conversion of **primitive data types** into its _equivalent_ **Wrapper type** is known as boxing
 
->[!Unboxing:]
->The conversion of **Wrapper type** into its _equivalent_ **primitive data types** is known as boxing
+>[!Tip:]
+> Unboxing : Defination
+>The conversion of **Wrapper type** into its _equivalent_ **primitive data types** is known as Unboxing
 
->[!AutoBoxing:]
+>[!Note:]
+> AutoBoxing : Defination
 >The **automatic** conversion of **primitive data types** into its _equivalent_ **Wrapper type** is known as boxing
 
  java programmer doesn't need to write the conversion code.

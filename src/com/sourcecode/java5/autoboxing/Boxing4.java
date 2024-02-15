@@ -8,7 +8,7 @@ public class Boxing4 {
 
     public static void main(String args[]) {
         int a = 30;
-        m(a);  //Compilation Error
+        //m(a);  //Compilation Error
     }
 
 }
