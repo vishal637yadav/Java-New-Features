@@ -1,14 +1,14 @@
 # Autoboxing and Unboxing:
 
->[!Note:]
+>[!NOTE:]
 > Boxing : Defination
 >The conversion of **primitive data types** into its _equivalent_ **Wrapper type** is known as boxing
 
->[!Tip:]
+>[!NOTE:]
 > Unboxing : Defination
 >The conversion of **Wrapper type** into its _equivalent_ **primitive data types** is known as Unboxing
 
->[!Note:]
+>[!NOTE:]
 > AutoBoxing : Defination
 >The **automatic** conversion of **primitive data types** into its _equivalent_ **Wrapper type** is known as boxing
 
