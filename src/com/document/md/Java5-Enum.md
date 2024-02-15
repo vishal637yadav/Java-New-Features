@@ -6,7 +6,6 @@ Enums can be used for :
 * season (SPRING, SUMMER, WINTER, and AUTUMN or FALL), 
 * colors (RED, YELLOW, BLUE, GREEN, WHITE, and BLACK) etc. 
 
-![img](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/images/.enum.JPG)
 
 According to the Java naming conventions, we should have all constants in capital letters. 
 So, we have enum constants in capital letters.
@@ -30,6 +29,8 @@ We can have **fields, constructors, methods, and main methods in Java enum**.
 * Enum can be traversed
 * Enum can have fields, constructors and methods
 * Enum may implement many interfaces but cannot extend any class because it internally extends Enum class
+  
+![img](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/images/.enum.JPG)
 
 ### Example 1 : Define Java Enum  and its iteration
 
