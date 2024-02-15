@@ -6,6 +6,8 @@ Enums can be used for :
 * season (SPRING, SUMMER, WINTER, and AUTUMN or FALL), 
 * colors (RED, YELLOW, BLUE, GREEN, WHITE, and BLACK) etc. 
 
+![img](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/images/.enum.JPG)
+
 According to the Java naming conventions, we should have all constants in capital letters. 
 So, we have enum constants in capital letters.
 
