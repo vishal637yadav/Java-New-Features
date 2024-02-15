@@ -77,17 +77,18 @@ FALL<br>
 
 ### Output:
 
-WINTER
-SPRING
-SUMMER
-FALL
-Value of WINTER is: WINTER
-Index of WINTER is: 0
-Index of SUMMER is: 2
+WINTER<br>
+SPRING<br>
+SUMMER<br>
+FALL<br>
+Value of WINTER is: WINTER<br>
+Index of WINTER is: 0<br>
+Index of SUMMER is: 2<br>
 
-[!NOTE]
+>[!NOTE]
 >Java **compiler internally** adds **values()**, **valueOf()** and **ordinal()** methods within the enum **at compile time**. 
 > It **internally** creates a **static** and **final** class for the **enum**.
+
 
 ## What is the purpose of the **values()** method in the enum?
 The Java compiler internally adds the values() method when it creates an enum. 
