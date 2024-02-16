@@ -36,10 +36,9 @@ Now **generics** **force** the java programmer **to store a specific type of obj
 3) **Compile-Time Checking:** It is **checked at compile time** so **problem will not occur at runtime**.<br>
 The good programming strategy says _it is far better to **handle** the **problem** at **compile time** than **runtime**_.
 
-
-    List<String> list = new ArrayList<String>();    
-    list.add("hello");    
-    list.add(32);//Compile Time Error    
+        List<String> list = new ArrayList<String>();    
+        list.add("hello");    
+        list.add(32);//Compile Time Error    
 
 ## Syntax to use generic collection
 
@@ -124,7 +123,8 @@ Creating a generic class:
     package com.sourcecode.java5.generics;
     
     public class MyGen<T> {
-    T obj;
+        
+        T obj;
     
         void add(T obj) {
             this.obj = obj;
@@ -158,7 +158,7 @@ Let's see the code to use the generic class.
 2
 
 ## Type Parameters
-The **type parameters** naming conventions are important to learn generics thoroughly. 
+The **type parameters** naming conventions are important to learn generics thoroughly. <br>
 The common type parameters are as follows:
 * T - Type
 * E - Element
@@ -167,7 +167,7 @@ The common type parameters are as follows:
 * V - Value
 
 ## Generic Method
-Like the generic class, we can create a **generic method** that **can accept any type of arguments**. 
+Like the generic class, we can create a **generic method** that **can accept any type of arguments**.<br> 
 Here, the **scope of arguments is limited to the method where it is declared**. 
 <br>It **allows static as well as non-static methods**.
 
