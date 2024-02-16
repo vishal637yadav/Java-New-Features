@@ -7,7 +7,7 @@
    4. [Autoboxing and UnBoxing](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-AutoBoxing-Unboxing.md)
    5. [Enums](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-Enum.md)
    6. [Annotations](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-Annotations.md)
-   7. Generics
+   7. [Generics](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java5-Generics.md)
       
 ## Java 7
    1. Binary Literal
