@@ -106,8 +106,8 @@ Now, we are going to implement the above example with the help of Java lambda ex
 
 Drawing 10
 
->[!NOTES]
->A lambda expression can have zero or any number of arguments. 
+>[!NOTE:]
+>A lambda expression can have **zero** or **any number of arguments**. 
 
 ### Java Lambda Expression Example: No Parameter
 
@@ -217,7 +217,7 @@ You must use return keyword when lambda expression contains multiple statements.
 
 ### Output:
 
-30
+30<br>
 300
 
 ### Java Lambda Expression Example: Foreach Loop
@@ -438,6 +438,9 @@ Redmi4 : 26000.0<br>
     }
 
 ### Output:
+
+![img](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/images/LambdaExpressionExample12_ui1.JPG)
+![img](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/images/LambdaExpressionExample12_ui2.JPG)
 
 --- 
 [**Next Topic :** Java 8 Method References]()
