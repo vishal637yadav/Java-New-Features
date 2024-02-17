@@ -17,11 +17,11 @@ so compiler does not create .class file.
 * An **interface** which has **only one abstract method** is called **functional interface**. 
 * Java provides an anotation **@FunctionalInterface**, which is **used to declare** an interface as **functional interface**.
 
-## Why use Lambda Expression
+# Why use Lambda Expression
 1) To **provide** the **implementation** of **Functional interface**.
 2) **Less coding**.
 
-## Java Lambda Expression Syntax
+# Java Lambda Expression Syntax
 
     (argument-list) -> {body}  
 Java **lambda expression** is consisted of **three components**.
@@ -50,7 +50,7 @@ Java **lambda expression** is consisted of **three components**.
 Let's see a scenario where we are not implementing Java lambda expression. 
 Here, we are implementing an interface without using lambda expression.
 
-## Without Lambda Expression
+# Without Lambda Expression
 
     package com.sourcecode.java8.lambdaexpressions;
     
@@ -78,7 +78,7 @@ Here, we are implementing an interface without using lambda expression.
 
 Drawing 10
 
-## Java Lambda Expression Example
+# Java Lambda Expression Example
 Now, we are going to implement the above example with the help of Java lambda expression.
 
     package com.sourcecode.java8.lambdaexpressions;
@@ -106,7 +106,7 @@ Now, we are going to implement the above example with the help of Java lambda ex
 
 Drawing 10
 
->[!NOTE:]
+>[!NOTE]
 >A lambda expression can have **zero** or **any number of arguments**. 
 
 ### Java Lambda Expression Example: No Parameter
