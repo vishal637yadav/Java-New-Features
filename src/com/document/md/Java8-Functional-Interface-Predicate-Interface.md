@@ -3,7 +3,6 @@
 * It is defined in the java.util.function package and contains test() a functional method.
 
 ## Java Predicate Interface Methods
-## Java Function Interface Methods
 | **Method**                                           | 	**Description**                                                                                                                                                                                                              |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | boolean test(T t)                                    | 	It evaluates this predicate on the given argument.                                                                                                                                                                           |
