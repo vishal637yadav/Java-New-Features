@@ -21,7 +21,7 @@
 ## Java 8
    1. [<b>Lambda Expression</b>](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java8-Lambda-Expressions.md)
    2. [Method Reference](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java8-Method-Reference.md)
-   3. Functional Interface
+   3. [Functional Interface](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java8-Functional-Interface.md)
    4. Stream API
    5. Stream Filter
    6. Base64 Encode Decode
