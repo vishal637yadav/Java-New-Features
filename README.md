@@ -27,7 +27,7 @@
       3. [Function-Interface](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java8-Functional-Interface-Function-Interface.md)
       4. [Predicate-Interface](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java8-Functional-Interface-Predicate-Interface.md)
    4. [Stream API](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java8-Stream_API.md)
-   5. Stream Filter
+   5. [Stream Filter](https://github.com/vishal637yadav/JavaNewFeatures/blob/master/src/com/document/md/Java8-Stream-Filter.md)
    6. Base64 Encode Decode
    7. Default Methods
    8. forEach() method
