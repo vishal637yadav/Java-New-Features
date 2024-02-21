@@ -53,7 +53,7 @@ For each element, it stores the element in the variable and executes the body of
 ### **Output:**
 
 12<br>
-12<br>
+13<br>
 14<br>
 44<br>
 
